@@ -19,7 +19,7 @@ class Text
     {
         return [
             'recipient' => [
-                'id' => 1
+                'id' => $this->recipientId
             ],
             'message' => [
                 'text' => 'oi',
