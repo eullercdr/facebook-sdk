@@ -3,7 +3,7 @@
 namespace CodeBot;
 
 
-class SendRequest
+class SenderRequest
 {
     private $event;
 
